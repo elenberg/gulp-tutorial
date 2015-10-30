@@ -1,0 +1,23 @@
+{
+  "name": "gulp-starter",
+  "homepage": "https://github.com/elenberg/gulp-tutorial",
+  "authors": [
+    "elenberg <everettlenberg@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "angular": "~1.4.7",
+    "backbone": "~1.2.3"
+  }
+}
